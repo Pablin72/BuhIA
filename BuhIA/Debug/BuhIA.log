@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\pdarc\onedrive - escuela politécnica nacional\semestres\quinto semestre\buhia\buhia\main.cpp(115): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\pdarc\onedrive - escuela politécnica nacional\semestres\quinto semestre\buhia\buhia\main.cpp(127): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\pdarc\onedrive - escuela politécnica nacional\semestres\quinto semestre\buhia\buhia\main.cpp(327): warning C4553: '==': result of expression not used; did you intend '='?
+  BuhIA.vcxproj -> C:\Users\pdarc\OneDrive - Escuela Politécnica Nacional\SEMESTRES\QUINTO SEMESTRE\BuhIA\Debug\BuhIA.exe
